@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Food
+title: Work
 slug: /work
 items:
   - title: 좋아하는 음식 1. 초밥
